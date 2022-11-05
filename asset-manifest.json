@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/olxclone/static/css/main.f0b9916f.chunk.css",
-    "main.js": "/olxclone/static/js/main.ba50f375.chunk.js",
-    "main.js.map": "/olxclone/static/js/main.ba50f375.chunk.js.map",
+    "main.js": "/olxclone/static/js/main.b5cf766c.chunk.js",
+    "main.js.map": "/olxclone/static/js/main.b5cf766c.chunk.js.map",
     "runtime-main.js": "/olxclone/static/js/runtime-main.31991615.js",
     "runtime-main.js.map": "/olxclone/static/js/runtime-main.31991615.js.map",
     "static/js/2.0d811e7a.chunk.js": "/olxclone/static/js/2.0d811e7a.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.31991615.js",
     "static/js/2.0d811e7a.chunk.js",
     "static/css/main.f0b9916f.chunk.css",
-    "static/js/main.ba50f375.chunk.js"
+    "static/js/main.b5cf766c.chunk.js"
   ]
 }
